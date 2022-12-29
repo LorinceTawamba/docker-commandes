@@ -16,18 +16,6 @@ docker -v
 docker version
 ```  
 
-## Créer un nouveau repository en ligne de commande. 
-
-```shell
-echo "# docker-commandes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/LorinceTawamba/docker-commandes.git
-git push -u origin main
-```  
-
 # Authors
 
 * **Lorince TAWAMBA** _alias_ [@LorinceTawamba](https://github.com/LorinceTawamba)
