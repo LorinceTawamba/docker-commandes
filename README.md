@@ -20,7 +20,9 @@ docker version
 
 ```shell
 docker images 
-Ou  
+``` 
+
+```shell 
 docker image ls
 ``` 
 
