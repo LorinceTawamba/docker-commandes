@@ -16,6 +16,14 @@ docker -v
 docker version
 ```  
 
+## Lister toutes les images Docker sur la machine.
+
+```shell
+docker images 
+Ou  
+docker image ls
+``` 
+
 # Authors
 
 * **Lorince TAWAMBA** _alias_ [@LorinceTawamba](https://github.com/LorinceTawamba)
