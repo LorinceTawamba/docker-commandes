@@ -10,7 +10,7 @@ Les commandes Docker pour conteneuriser vos applications et les rendre cloud com
 docker -v
 ```  
 
-`*`Avec plus de détails.
+*Avec plus de détails.
 
 ```shell
 docker version
