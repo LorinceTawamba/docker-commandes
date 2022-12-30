@@ -2,6 +2,11 @@
 
 Les commandes Docker pour conteneuriser vos applications et les rendre cloud compatible. 
 
+# DOCKER RESUME DES COMMANDES REFERENCES
+```shell
+https://docs.docker.com/engine/reference/commandline/docker/
+```
+
 # Les commandes de base   
 
 ## Connaitre la version de Docker courrante 
